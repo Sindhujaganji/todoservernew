@@ -2,7 +2,7 @@
   "todos": [
     {
       "id": 2,
-      "todo": "To complete project of Data mining123",
+      "todo": "To complete project of Data mining",
       "description": "Have to complete it before 6th december",
       "active": false,
       "status": "inprogress"
